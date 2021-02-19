@@ -128,7 +128,7 @@ function LandingPage() {
                       </InputGroup>
                       <CardFooter className="text-center">
                         <Button
-                          className="btn-round"
+                          className="btn-round disabled"
                           color="info"
                           href="#pablo"
                           onClick={(e) => e.preventDefault()}
